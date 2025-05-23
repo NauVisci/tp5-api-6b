@@ -1,14 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\",
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E7F7120-8BE7-429B-8F0C-059349AEB868}|TPWinForm_equipo-6\\TPWinForm_equipo-6.csproj|d:\\escritorio\\program\\facultad\\tp5-api-6b\\tpwinform_equipo-6\\frmmarcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E7F7120-8BE7-429B-8F0C-059349AEB868}|TPWinForm_equipo-6\\TPWinForm_equipo-6.csproj|solutionrelative:tpwinform_equipo-6\\frmmarcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|c:\\users\\alex\\source\\repos\\tp6\\version1\\api-catalogo\\controllers\\imagencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|solutionrelative:api-catalogo\\controllers\\imagencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E7F7120-8BE7-429B-8F0C-059349AEB868}|TPWinForm_equipo-6\\TPWinForm_equipo-6.csproj|d:\\escritorio\\program\\facultad\\tp5-api-6b\\tpwinform_equipo-6\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|C:\\Users\\Alex\\source\\repos\\TP6\\version1\\negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|solutionrelative:negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|C:\\Users\\Alex\\source\\repos\\TP6\\version1\\api-catalogo\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|solutionrelative:api-catalogo\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|C:\\Users\\Alex\\source\\repos\\TP6\\version1\\api-catalogo\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|solutionrelative:api-catalogo\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|C:\\Users\\Alex\\source\\repos\\TP6\\version1\\api-catalogo\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|solutionrelative:api-catalogo\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3EE3D0-FE91-4F98-BE75-D2FD1BF52192}|Dominio\\Dominio.csproj|C:\\Users\\Alex\\source\\repos\\TP6\\version1\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3EE3D0-FE91-4F98-BE75-D2FD1BF52192}|Dominio\\Dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|C:\\Users\\Alex\\source\\repos\\TP6\\version1\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3EE3D0-FE91-4F98-BE75-D2FD1BF52192}|Dominio\\Dominio.csproj|C:\\Users\\Alex\\source\\repos\\TP6\\version1\\dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3EE3D0-FE91-4F98-BE75-D2FD1BF52192}|Dominio\\Dominio.csproj|solutionrelative:dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|C:\\Users\\Alex\\source\\repos\\TP6\\version1\\negocio\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|solutionrelative:negocio\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|C:\\Users\\Alex\\source\\repos\\TP6\\version1\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7F7120-8BE7-429B-8F0C-059349AEB868}|TPWinForm_equipo-6\\TPWinForm_equipo-6.csproj|C:\\Users\\Alex\\source\\repos\\TP6\\version1\\tpwinform_equipo-6\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8E7F7120-8BE7-429B-8F0C-059349AEB868}|TPWinForm_equipo-6\\TPWinForm_equipo-6.csproj|solutionrelative:tpwinform_equipo-6\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|C:\\Users\\Alex\\source\\repos\\TP6\\version1\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7F7120-8BE7-429B-8F0C-059349AEB868}|TPWinForm_equipo-6\\TPWinForm_equipo-6.csproj|C:\\Users\\Alex\\source\\repos\\TP6\\version1\\tpwinform_equipo-6\\frmmarcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E7F7120-8BE7-429B-8F0C-059349AEB868}|TPWinForm_equipo-6\\TPWinForm_equipo-6.csproj|solutionrelative:tpwinform_equipo-6\\frmmarcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,20 +62,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "frmCategorias.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\TPWinForm_equipo-6\\frmCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\TPWinForm_equipo-6\\frmCategorias.cs",
               "RelativeDocumentMoniker": "TPWinForm_equipo-6\\frmCategorias.cs",
-              "ToolTip": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\TPWinForm_equipo-6\\frmCategorias.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\TPWinForm_equipo-6\\frmCategorias.cs [Dise\u00F1o]",
               "RelativeToolTip": "TPWinForm_equipo-6\\frmCategorias.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T00:47:07.261Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
@@ -44,14 +99,146 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ImagenController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\api-catalogo\\Controllers\\ImagenController.cs",
+              "RelativeDocumentMoniker": "api-catalogo\\Controllers\\ImagenController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\api-catalogo\\Controllers\\ImagenController.cs",
+              "RelativeToolTip": "api-catalogo\\Controllers\\ImagenController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:25:40.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarcaController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\api-catalogo\\Controllers\\MarcaController.cs",
+              "RelativeDocumentMoniker": "api-catalogo\\Controllers\\MarcaController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\api-catalogo\\Controllers\\MarcaController.cs",
+              "RelativeToolTip": "api-catalogo\\Controllers\\MarcaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:33:31.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\api-catalogo\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "api-catalogo\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\api-catalogo\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "api-catalogo\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:25:19.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MarcaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Negocio\\MarcaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\MarcaNegocio.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Negocio\\MarcaNegocio.cs",
+              "RelativeToolTip": "Negocio\\MarcaNegocio.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:56:44.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "Dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Dominio\\Marca.cs",
+              "RelativeToolTip": "Dominio\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:52:37.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImagenNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Negocio\\ImagenNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ImagenNegocio.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Negocio\\ImagenNegocio.cs",
+              "RelativeToolTip": "Negocio\\ImagenNegocio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:35:31.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\api-catalogo\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "api-catalogo\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\api-catalogo\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "api-catalogo\\Controllers\\ArticuloController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:09:55.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Dominio\\Imagen.cs",
+              "RelativeDocumentMoniker": "Dominio\\Imagen.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Dominio\\Imagen.cs",
+              "RelativeToolTip": "Dominio\\Imagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:36:56.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Negocio\\BaseDeDatos.cs",
+              "RelativeDocumentMoniker": "Negocio\\BaseDeDatos.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Negocio\\BaseDeDatos.cs",
+              "RelativeToolTip": "Negocio\\BaseDeDatos.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:24:15.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Negocio\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Negocio\\CategoriaNegocio.cs",
+              "RelativeToolTip": "Negocio\\CategoriaNegocio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:36:34.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Negocio\\ArticuloNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\Negocio\\ArticuloNegocio.cs",
+              "RelativeToolTip": "Negocio\\ArticuloNegocio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:23:53.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "frmMarcas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\TPWinForm_equipo-6\\frmMarcas.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\TPWinForm_equipo-6\\frmMarcas.cs",
               "RelativeDocumentMoniker": "TPWinForm_equipo-6\\frmMarcas.cs",
-              "ToolTip": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\TPWinForm_equipo-6\\frmMarcas.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\TP6\\version1\\TPWinForm_equipo-6\\frmMarcas.cs [Dise\u00F1o]",
               "RelativeToolTip": "TPWinForm_equipo-6\\frmMarcas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T00:27:46.936Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-23T00:27:46.936Z"
             }
           ]
         }

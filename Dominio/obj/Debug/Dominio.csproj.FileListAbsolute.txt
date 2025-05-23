@@ -10,3 +10,9 @@ D:\Escritorio\Program\FACULTAD\tp5-api-6b\Dominio\obj\Debug\Dominio.csproj.Assem
 D:\Escritorio\Program\FACULTAD\tp5-api-6b\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 D:\Escritorio\Program\FACULTAD\tp5-api-6b\Dominio\obj\Debug\Dominio.dll
 D:\Escritorio\Program\FACULTAD\tp5-api-6b\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Alex\source\repos\TP6\version1\Dominio\bin\Debug\Dominio.dll
+C:\Users\Alex\source\repos\TP6\version1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Alex\source\repos\TP6\version1\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\TP6\version1\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\TP6\version1\Dominio\obj\Debug\Dominio.dll
+C:\Users\Alex\source\repos\TP6\version1\Dominio\obj\Debug\Dominio.pdb
