@@ -34,3 +34,12 @@ C:\Users\Alex\source\repos\TP6\version1\Negocio\obj\Debug\Negocio.csproj.CoreCom
 C:\Users\Alex\source\repos\TP6\version1\Negocio\obj\Debug\Negocio.csproj.Up2Date
 C:\Users\Alex\source\repos\TP6\version1\Negocio\obj\Debug\Negocio.dll
 C:\Users\Alex\source\repos\TP6\version1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\Negocio\bin\Debug\Negocio.dll
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\Negocio\bin\Debug\Negocio.pdb
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\Negocio\bin\Debug\Dominio.dll
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\Negocio\bin\Debug\Dominio.pdb
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\Negocio\obj\Debug\Negocio.dll
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\Negocio\obj\Debug\Negocio.pdb

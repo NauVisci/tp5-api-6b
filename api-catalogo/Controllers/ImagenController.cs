@@ -6,6 +6,7 @@ using System.Net.Http;
 using System.Web.Http;
 using Negocio;
 using Dominio;
+using api_catalogo.Models;
 
 namespace api_catalogo.Controllers
 {
@@ -28,8 +29,13 @@ namespace api_catalogo.Controllers
         }
 
         // POST: api/Imagen
-        public void Post([FromBody]string value)
+        public void Post([FromBody]ImagenDto imag)
         {
+            ImagenNegocio negocio = new ImagenNegocio();
+            Imagen imagen = new Imagen();
+            imagen.IdArticulo = imag.IdArticulo;
+            imagen.ImagenUrl = imag.ImagenUrl;
+            negocio.AgregarImagen(imagen.IdArticulo, imagen.ImagenUrl);             
         }
 
         // PUT: api/Imagen/5

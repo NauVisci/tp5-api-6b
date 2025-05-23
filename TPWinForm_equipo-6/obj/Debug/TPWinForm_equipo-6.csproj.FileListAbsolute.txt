@@ -83,3 +83,21 @@ C:\Users\Alex\source\repos\TP6\version1\TPWinForm_equipo-6\obj\Debug\TPWinForm_e
 C:\Users\Alex\source\repos\TP6\version1\TPWinForm_equipo-6\obj\Debug\TPWinFor.DFCED00F.Up2Date
 C:\Users\Alex\source\repos\TP6\version1\TPWinForm_equipo-6\obj\Debug\TPWinForm_equipo-6.exe
 C:\Users\Alex\source\repos\TP6\version1\TPWinForm_equipo-6\obj\Debug\TPWinForm_equipo-6.pdb
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\bin\Debug\TPWinForm_equipo-6.exe.config
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\bin\Debug\TPWinForm_equipo-6.exe
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\bin\Debug\TPWinForm_equipo-6.pdb
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\bin\Debug\Dominio.dll
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\bin\Debug\Negocio.dll
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\bin\Debug\Dominio.pdb
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\bin\Debug\Negocio.pdb
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\obj\Debug\TPWinForm_equipo-6.csproj.AssemblyReference.cache
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\obj\Debug\TPWinForm_equipo_6.frmArticuloDetalle.resources
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\obj\Debug\TPWinForm_equipo_6.frmCategorias.resources
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\obj\Debug\TPWinForm_equipo_6.frmMarcas.resources
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\obj\Debug\TPWinForm_equipo_6.frmPrincipal.resources
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\obj\Debug\TPWinForm_equipo_6.Properties.Resources.resources
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\obj\Debug\TPWinForm_equipo-6.csproj.GenerateResource.cache
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\obj\Debug\TPWinForm_equipo-6.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\obj\Debug\TPWinFor.DFCED00F.Up2Date
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\obj\Debug\TPWinForm_equipo-6.exe
+C:\Users\nahue\Desktop\Mi carpeta - Nahuel\NMV - Personal\TUP UTN\Programacion_3\repo\Winform_TP5\TPWinForm_equipo-6\obj\Debug\TPWinForm_equipo-6.pdb

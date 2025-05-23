@@ -6,6 +6,7 @@ using System.Net.Http;
 using System.Web.Http;
 using Negocio;
 using Dominio;
+using api_catalogo.Models;
 
 namespace api_catalogo.Controllers
 {
@@ -27,8 +28,12 @@ namespace api_catalogo.Controllers
         }
 
         // POST: api/Categoria
-        public void Post([FromBody]string value)
+        public void Post([FromBody]CategoriaDto cat)
         {
+            CategoriaNegocio negocio = new CategoriaNegocio();
+            Categoria categoria = new Categoria();
+            categoria.Descripcion = cat.Descripcion;
+            negocio.Agregar(categoria);
         }
 
         // PUT: api/Categoria/5
