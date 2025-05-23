@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nahue\\Desktop\\Mi carpeta - Nahuel\\NMV - Personal\\TUP UTN\\Programacion_3\\repo\\Winform_TP5\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|d:\\escritorio\\program\\facultad\\tp5-api-6b\\api-catalogo\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|solutionrelative:api-catalogo\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\api-catalogo\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "api-catalogo\\Controllers\\ArticuloController.cs",
+              "ToolTip": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\api-catalogo\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "api-catalogo\\Controllers\\ArticuloController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:56:28.143Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -39,13 +39,42 @@ namespace api_catalogo.Controllers
         }
 
         // PUT: api/Marca/5
-        public void Put(int id, [FromBody]string value)
+        public IHttpActionResult Put(int id, [FromBody] MarcaDto marcaDto)
         {
+            try
+            {
+                if (marcaDto == null) return BadRequest("Los datos de la marca son requeridos");
+
+                MarcaNegocio negocio = new MarcaNegocio();
+                Marca marca = new Marca();
+
+                marca.Id = id;
+                marca.Descripcion = marcaDto.Descripcion;
+
+                negocio.Modificar(marca);
+
+                return Ok("Marca actualizada correctamente");
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+            }
         }
 
         // DELETE: api/Marca/5
-        public void Delete(int id)
+        public IHttpActionResult Delete(int id)
         {
+            try
+            {
+                MarcaNegocio negocio = new MarcaNegocio();
+                negocio.Eliminar(id);
+
+                return Ok("Marca eliminada correctamente");
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+            }
         }
     }
 }

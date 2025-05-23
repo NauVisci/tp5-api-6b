@@ -39,13 +39,36 @@ namespace api_catalogo.Controllers
         }
 
         // PUT: api/Imagen/5
-        public void Put(int id, [FromBody]string value)
+        public IHttpActionResult Put(int id, [FromBody] ImagenDto imagenDto)
         {
+            try
+            {
+                if (imagenDto == null) return BadRequest("Los datos de la imagen son requeridos");
+
+                ImagenNegocio negocio = new ImagenNegocio();
+                negocio.ModificarImagen(id, imagenDto.IdArticulo, imagenDto.ImagenUrl);
+                return Ok("Imagen actualizada correctamente");
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+            }
         }
 
         // DELETE: api/Imagen/5
-        public void Delete(int id)
+        public IHttpActionResult Delete(int id)
         {
+            try
+            {
+                ImagenNegocio negocio = new ImagenNegocio();
+                negocio.EliminarImagen(id);
+
+                return Ok("Imagen eliminada correctamente");
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+            }
         }
     }
 }

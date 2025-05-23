@@ -37,13 +37,43 @@ namespace api_catalogo.Controllers
         }
 
         // PUT: api/Categoria/5
-        public void Put(int id, [FromBody]string value)
+        public IHttpActionResult Put(int id, [FromBody] CategoriaDto categoriaDto)
         {
+            try
+            {
+                if (categoriaDto == null) return BadRequest("Los datos de la categoría son requeridos");
+
+                CategoriaNegocio negocio = new CategoriaNegocio();
+                Categoria categoria = new Categoria();
+
+                categoria.Id = id;
+                categoria.Descripcion = categoriaDto.Descripcion;
+
+                negocio.Modificar(categoria);
+
+                return Ok("Categoría actualizada correctamente");
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+            }
         }
 
         // DELETE: api/Categoria/5
-        public void Delete(int id)
+        public IHttpActionResult Delete(int id)
         {
+            try
+            {
+                CategoriaNegocio negocio = new CategoriaNegocio();
+                negocio.Eliminar(id);
+
+                return Ok("Categoría eliminada correctamente");
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+            }
         }
+
     }
 }

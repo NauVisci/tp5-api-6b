@@ -80,8 +80,26 @@ namespace Negocio
                 bd.cerrarConexion();
             }
         }
-
-
+        public void ModificarImagen(int id, int idArticulo, string imagenUrl)
+        {
+            // no habia metodo para modificar imagen, lo agreio
+            try
+            {
+                bd.setearConsulta("UPDATE IMAGENES SET IdArticulo = @IdArticulo, ImagenUrl = @ImagenUrl WHERE Id = @Id");
+                bd.setearParametro("@IdArticulo", idArticulo);
+                bd.setearParametro("@ImagenUrl", imagenUrl);
+                bd.setearParametro("@Id", id);
+                bd.ejecutarAccion();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al modificar imagen: " + ex.Message);
+            }
+            finally
+            {
+                bd.cerrarConexion();
+            }
+        }
 
     }
 }
