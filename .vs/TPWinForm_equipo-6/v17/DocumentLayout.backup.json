@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nahue\\Desktop\\Mi carpeta - Nahuel\\NMV - Personal\\TUP UTN\\Programacion_3\\Winform_TP5\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7F7120-8BE7-429B-8F0C-059349AEB868}|TPWinForm_equipo-6\\TPWinForm_equipo-6.csproj|d:\\escritorio\\program\\facultad\\tp5-api-6b\\tpwinform_equipo-6\\frmmarcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E7F7120-8BE7-429B-8F0C-059349AEB868}|TPWinForm_equipo-6\\TPWinForm_equipo-6.csproj|solutionrelative:tpwinform_equipo-6\\frmmarcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7F7120-8BE7-429B-8F0C-059349AEB868}|TPWinForm_equipo-6\\TPWinForm_equipo-6.csproj|d:\\escritorio\\program\\facultad\\tp5-api-6b\\tpwinform_equipo-6\\frmmarcas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7F7120-8BE7-429B-8F0C-059349AEB868}|TPWinForm_equipo-6\\TPWinForm_equipo-6.csproj|solutionrelative:tpwinform_equipo-6\\frmmarcas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|d:\\escritorio\\program\\facultad\\tp5-api-6b\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMarcas.Designer.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\TPWinForm_equipo-6\\frmMarcas.Designer.cs",
+              "RelativeDocumentMoniker": "TPWinForm_equipo-6\\frmMarcas.Designer.cs",
+              "ToolTip": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\TPWinForm_equipo-6\\frmMarcas.Designer.cs",
+              "RelativeToolTip": "TPWinForm_equipo-6\\frmMarcas.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAWwJ4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:44:09.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarcaNegocio.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\Negocio\\MarcaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\MarcaNegocio.cs",
+              "ToolTip": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\Negocio\\MarcaNegocio.cs",
+              "RelativeToolTip": "Negocio\\MarcaNegocio.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAmwHsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:39:15.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMarcas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\TPWinForm_equipo-6\\frmMarcas.cs",
+              "RelativeDocumentMoniker": "TPWinForm_equipo-6\\frmMarcas.cs",
+              "ToolTip": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\TPWinForm_equipo-6\\frmMarcas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TPWinForm_equipo-6\\frmMarcas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:27:46.936Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
