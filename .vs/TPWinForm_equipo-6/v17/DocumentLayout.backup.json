@@ -1,10 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\",
+  "WorkspaceRootPath": "F:\\Alex\\source\\TP6\\versionVitto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|d:\\escritorio\\program\\facultad\\tp5-api-6b\\negocio\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|f:\\alex\\source\\tp6\\versionvitto\\api-catalogo\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|solutionrelative:api-catalogo\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|f:\\alex\\source\\tp6\\versionvitto\\api-catalogo\\models\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|solutionrelative:api-catalogo\\models\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3EE3D0-FE91-4F98-BE75-D2FD1BF52192}|Dominio\\Dominio.csproj|f:\\alex\\source\\tp6\\versionvitto\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3EE3D0-FE91-4F98-BE75-D2FD1BF52192}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|f:\\alex\\source\\tp6\\versionvitto\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|f:\\alex\\source\\tp6\\versionvitto\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|f:\\alex\\source\\tp6\\versionvitto\\negocio\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FBF181A-B49D-422F-A2D2-DEB96C163865}|Negocio\\Negocio.csproj|solutionrelative:negocio\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|f:\\alex\\source\\tp6\\versionvitto\\api-catalogo\\models\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|solutionrelative:api-catalogo\\models\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|f:\\alex\\source\\tp6\\versionvitto\\api-catalogo\\models\\imagendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|solutionrelative:api-catalogo\\models\\imagendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|f:\\alex\\source\\tp6\\versionvitto\\api-catalogo\\models\\marcadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A5CB3-C256-4E5C-8E14-15D65AE3C101}|api-catalogo\\api-catalogo.csproj|solutionrelative:api-catalogo\\models\\marcadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +58,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BaseDeDatos.cs",
-              "DocumentMoniker": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\Negocio\\BaseDeDatos.cs",
-              "RelativeDocumentMoniker": "Negocio\\BaseDeDatos.cs",
-              "ToolTip": "D:\\Escritorio\\Program\\FACULTAD\\tp5-api-6b\\Negocio\\BaseDeDatos.cs",
-              "RelativeToolTip": "Negocio\\BaseDeDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MarcaNegocio.cs",
+              "DocumentMoniker": "F:\\Alex\\source\\TP6\\versionVitto\\Negocio\\MarcaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\MarcaNegocio.cs",
+              "ToolTip": "F:\\Alex\\source\\TP6\\versionVitto\\Negocio\\MarcaNegocio.cs",
+              "RelativeToolTip": "Negocio\\MarcaNegocio.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAIwIQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T22:07:34.38Z",
+              "WhenOpened": "2025-05-24T18:12:59.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "F:\\Alex\\source\\TP6\\versionVitto\\api-catalogo\\Models\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "api-catalogo\\Models\\CategoriaDto.cs",
+              "ToolTip": "F:\\Alex\\source\\TP6\\versionVitto\\api-catalogo\\Models\\CategoriaDto.cs",
+              "RelativeToolTip": "api-catalogo\\Models\\CategoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:42:34.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticuloDto.cs",
+              "DocumentMoniker": "F:\\Alex\\source\\TP6\\versionVitto\\api-catalogo\\Models\\ArticuloDto.cs",
+              "RelativeDocumentMoniker": "api-catalogo\\Models\\ArticuloDto.cs",
+              "ToolTip": "F:\\Alex\\source\\TP6\\versionVitto\\api-catalogo\\Models\\ArticuloDto.cs",
+              "RelativeToolTip": "api-catalogo\\Models\\ArticuloDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:42:29.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "F:\\Alex\\source\\TP6\\versionVitto\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
+              "ToolTip": "F:\\Alex\\source\\TP6\\versionVitto\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Dominio\\Articulo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:32:50.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseDeDatos.cs",
+              "DocumentMoniker": "F:\\Alex\\source\\TP6\\versionVitto\\Negocio\\BaseDeDatos.cs",
+              "RelativeDocumentMoniker": "Negocio\\BaseDeDatos.cs",
+              "ToolTip": "F:\\Alex\\source\\TP6\\versionVitto\\Negocio\\BaseDeDatos.cs",
+              "RelativeToolTip": "Negocio\\BaseDeDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:28:00.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "F:\\Alex\\source\\TP6\\versionVitto\\api-catalogo\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "api-catalogo\\Controllers\\ArticuloController.cs",
+              "ToolTip": "F:\\Alex\\source\\TP6\\versionVitto\\api-catalogo\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "api-catalogo\\Controllers\\ArticuloController.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAwwNAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:56:28.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "F:\\Alex\\source\\TP6\\versionVitto\\Negocio\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\CategoriaNegocio.cs",
+              "ToolTip": "F:\\Alex\\source\\TP6\\versionVitto\\Negocio\\CategoriaNegocio.cs",
+              "RelativeToolTip": "Negocio\\CategoriaNegocio.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAIwIYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:30:09.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImagenDto.cs",
+              "DocumentMoniker": "F:\\Alex\\source\\TP6\\versionVitto\\api-catalogo\\Models\\ImagenDto.cs",
+              "RelativeDocumentMoniker": "api-catalogo\\Models\\ImagenDto.cs",
+              "ToolTip": "F:\\Alex\\source\\TP6\\versionVitto\\api-catalogo\\Models\\ImagenDto.cs",
+              "RelativeToolTip": "api-catalogo\\Models\\ImagenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:42:37.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MarcaDto.cs",
+              "DocumentMoniker": "F:\\Alex\\source\\TP6\\versionVitto\\api-catalogo\\Models\\MarcaDto.cs",
+              "RelativeDocumentMoniker": "api-catalogo\\Models\\MarcaDto.cs",
+              "ToolTip": "F:\\Alex\\source\\TP6\\versionVitto\\api-catalogo\\Models\\MarcaDto.cs",
+              "RelativeToolTip": "api-catalogo\\Models\\MarcaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:42:39.506Z",
               "EditorCaption": ""
             }
           ]
